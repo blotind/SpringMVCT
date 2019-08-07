@@ -2,3 +2,5 @@
 .gradle
 /build/
 *.file
+*.err
+*.out
